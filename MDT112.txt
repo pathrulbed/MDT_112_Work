@@ -1,9 +1,6 @@
 hello world
-<<<<<<< HEAD
 kami no manimani 
 KMUTT
 MDT112 is very fun
-=======
 kami no manimani
 KMUTT
->>>>>>> edit_(MDT112.txt)
